@@ -31,6 +31,12 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+Business/[Bb]in/
+DataAccess/[Bb]in/
+Business/[Oo]in/
+DataAccess/[Oo]in/
+OfficeSpaceFanWebsite/[Bb]in/
+OfficeSpaceFanWebsite/[Oo]in/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
