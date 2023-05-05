@@ -1,0 +1,28 @@
+@font-face {
+    font-family: officeSpaceFont;
+    src: url(CoopHeavy\ Regular.otf);
+    font-weight: bold;
+  }
+
+*  {
+    font-family: officeSpaceFont;
+}
+
+h1 {
+    color: #be1017;
+    font-size: 42px;
+    text-align: center;
+}
+
+nav a {
+    color: #be1017;
+    font-size: larger;
+}
+
+nav a:hover {
+    text-decoration: none;
+}
+
+form {
+    font-size: 28px;
+}
